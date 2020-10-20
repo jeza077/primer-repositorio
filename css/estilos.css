@@ -8,6 +8,8 @@ header.container {
     display: flex;
     padding: 25px 50px;
     text-align: center;
+    background: green;
+    color: white;
 }
 
 .container {
