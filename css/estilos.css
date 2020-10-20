@@ -16,3 +16,7 @@ header.container {
     padding: 50px;
     background: goldenrod;
 }
+
+section.container article:first-child{
+    color: #fff;
+}
